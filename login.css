@@ -1,0 +1,38 @@
+.input-field {
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #bfbfbf;
+  border-style: solid;
+  outline: none;
+}
+.login-side {
+  border: 1px solid #bfbfbf;
+  width: 400px; /* Set the width of the image */
+  height: 500px;
+  text-align: center;
+  text-transform: none;
+}
+button {
+  width: 43%;
+  padding: 10px;
+  border: none;
+  background-color: #4267b2;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.photo-login img {
+  width: 400px; /* Set the width of the image */
+  height: 600px; /* Maintain the aspect ratio */
+}
+.no-account {
+  border-style: solid;
+  border-color: white;
+  height: 1cm;
+  text-align: center;
+}
+a {
+  text-transform: none;
+}
